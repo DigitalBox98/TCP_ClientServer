@@ -43,13 +43,14 @@ On MacOS :
 ./QTCPClient.app/Contents/MacOS/QTCPClient
 ```
 
-<img width="396" alt="Client" src="https://github.com/DigitalBox98/UDP_ClientServer/assets/57635141/2be2a0db-bbac-495a-9966-3b559f513d5e">
 
 Select the server address, then connect.
 
+<img width="392" alt="TCP1" src="https://github.com/DigitalBox98/TCP_ClientServer/assets/57635141/7a8d648e-55dd-4d15-8cd0-41cd005bdaf6">
+
 Type your message : 
 
-<img width="399" alt="Hello" src="https://github.com/DigitalBox98/UDP_ClientServer/assets/57635141/a6dcfb34-dd47-4088-9fc6-f4169aa3f810">
+<img width="395" alt="TCP2" src="https://github.com/DigitalBox98/TCP_ClientServer/assets/57635141/a5429cce-db29-4911-b815-0af0695e0a0b">
 
 The message is then broadcasted from the server to all TCP connected clients :)
 
